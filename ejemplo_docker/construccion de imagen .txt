@@ -1,0 +1,2 @@
+1.- se ejecuta este comando
+	docker build -t billingapp:prod --no-cache --build-arg JAR_FILE=target/billing-0.0.1-SNAPSHOT.jar .

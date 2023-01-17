@@ -1,0 +1,13 @@
+1.-Se debe crear una cuenta de docker hub
+https://hub.docker.com/
+
+2.-Se debe logear en consola
+	docker login
+		username
+		password
+
+3.-se debe indicar al repositorio al que se debe subir cambiando el nombre de la img
+	docker tag app-python:latest wanchundia/app-python:latest
+
+4.- comando para subir
+	docker push wanchundia/app-python:latest

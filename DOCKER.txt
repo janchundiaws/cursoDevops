@@ -1,0 +1,5 @@
+EN WINDOWS SE DEBE INSTALAR DOCKER DESKTOP en el siguiente link
+	https://docs.docker.com/desktop/install/windows-install/
+nota:// en esta instalacion ya trae todo docker engine
+					 docker container
+	no se debe instalar nada mas

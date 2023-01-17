@@ -1,0 +1,9 @@
+1.- se crea una archivo yml con las images 
+	nota:// se puede ejecutar de dos maneras
+	docker-compose.yml
+2.- descargar las imagenes
+	docker-compose -f stack.yml pull
+2.1.- descargar las images con el nombre por defecto
+	docker-compose pull
+3.- levantar los contenedores
+	docker-compose -f .\stack.yml up -d
