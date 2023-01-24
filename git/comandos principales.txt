@@ -21,3 +21,4 @@
 
 *como hacer merge o combinar las ramas
 	git merge nuevaRama(rama donde estan los cambios que yo quiero)
+
