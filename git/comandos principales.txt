@@ -20,8 +20,5 @@
 	git push  
 
 *como hacer merge o combinar las ramas
-<<<<<<< HEAD
 	git merge nuevaRama(rama donde estan los cambios que yo quiero)
-=======
-	git merge nuevaRama(rama donde estan los cambios que yo quiero...)
->>>>>>> janchundia
+
