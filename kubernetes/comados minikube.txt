@@ -1,0 +1,11 @@
+*iniciar el mminikube
+	minikube start
+
+*ver estado del minikube
+	minikube status
+
+*parar el minikube
+	minikube stop
+
+*levantar dashboard
+	minikube dashboard --url
