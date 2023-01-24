@@ -1,3 +1,7 @@
+*despues de instalar configurar el usuario y el correo de git local
+	git config --global user.name "mi nombre"
+	git config --global user.email "mi correo"
+
 *Clonar un repositorio
 	git clone https://ruta del servidor
 
@@ -21,7 +25,4 @@
 
 *como hacer merge o combinar las ramas
 	git merge nuevaRama(rama donde estan los cambios que yo quiero)
-<<<<<<< HEAD
 
-=======
->>>>>>> janchundia
