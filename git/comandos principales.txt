@@ -1,0 +1,20 @@
+*Clonar un repositorio
+	git clone https://ruta del servidor
+
+*Para agregar todos los archivos a al proyecto git
+	git add .
+
+*Para realizar un commit local
+	git commit -m "inicio del proyecto"
+
+*Para visualizar todos las ramas
+	git branch
+
+*Cambiarme de ramas
+	git checkout janchundia
+
+*obtener todos los cambios de la master
+	git pull
+
+*subir todos los cambios de la rama
+	git push
