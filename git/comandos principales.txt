@@ -13,8 +13,11 @@
 *Cambiarme de ramas
 	git checkout janchundia
 
-*obtener todos los cambios de la master
+*obtener todos los cambios de la master - siempre de la master o main
 	git pull
 
 *subir todos los cambios de la rama
 	git push  
+
+*como hacer merge o combinar las ramas
+	git merge nuevaRama(rama donde estan los cambios que yo quiero)
