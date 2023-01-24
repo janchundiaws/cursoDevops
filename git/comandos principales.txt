@@ -17,4 +17,4 @@
 	git pull
 
 *subir todos los cambios de la rama
-	git push
+	git push  
