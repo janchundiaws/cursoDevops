@@ -20,8 +20,14 @@
 *obtener todos los cambios de la master - siempre de la master o main
 	git pull
 
+*obtener los cambios de una rama en especifico
+	git pull origin janchundia
+
 *subir todos los cambios de la rama
 	git push  
+
+*subir los cambios a una rama en especifico
+	git push -u origin janchundia
 
 *como hacer merge o combinar las ramas
 	git merge nuevaRama(rama donde estan los cambios que yo quiero)
