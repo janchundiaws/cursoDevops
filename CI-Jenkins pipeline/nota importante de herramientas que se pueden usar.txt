@@ -1,0 +1,3 @@
+ngrok - para habilitar una puerta de enlace para recibir cambios de github
+slack - para notificaciones de los cambios que se efectuen (release)
+sonarqube - para evaluar la calidad del codigo antes de que se haga el release
