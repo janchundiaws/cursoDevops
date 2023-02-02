@@ -32,3 +32,11 @@
 *como hacer merge o combinar las ramas
 	git merge nuevaRama(rama donde estan los cambios que yo quiero)
 
+*creacion de tag
+	git tag -a 1.0.0 -m "primer tag"
+
+*ver todos los tag
+	git tag
+
+*subir el tag al repositorio
+	git push origin 1.0.0
