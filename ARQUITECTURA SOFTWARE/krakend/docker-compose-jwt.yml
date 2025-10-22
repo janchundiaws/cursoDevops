@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "port": 8080,
+  "extra_config": {
+    "auth/validator": {
+      "alg": "HS256",
+      "jwk-url": "https://tu-dominio.com/.well-known/jwks.json",
+      "roles_key": "roles",
+      "cache": true
+    }
+  },
+  "endpoints": [
+    {
+      "endpoint": "/api/secure",
+      "method": "GET",
+      "backend": [
+        {
+          "host": ["http://backend:3000"],
+          "url_pattern": "/secure"
+        }
+      ]
+    }
+  ]
+}
